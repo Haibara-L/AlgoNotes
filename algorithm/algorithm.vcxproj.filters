@@ -24,5 +24,14 @@
     <ClCompile Include="传纸条问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组压缩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最优积木组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统一积木的最小代价.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

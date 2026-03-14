@@ -125,7 +125,10 @@
   <ItemGroup>
     <ClCompile Include="传纸条问题.cpp" />
     <ClCompile Include="方格取数.cpp" />
+    <ClCompile Include="最优积木组合.cpp" />
     <ClCompile Include="矩阵传数问题.cpp" />
+    <ClCompile Include="数组压缩.cpp" />
+    <ClCompile Include="统一积木的最小代价.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
